@@ -28,4 +28,3 @@ app.UseSwaggerUI();
 app.Run();
 
 public partial class Program;
-//só um teste
